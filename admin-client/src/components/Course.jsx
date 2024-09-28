@@ -174,7 +174,7 @@ function Price() {
             Price
         </Typography>
         <Typography variant="subtitle1">
-            <b>Rs {price} </b>
+            <b>$ {price} </b>
         </Typography>
     </>
 }
